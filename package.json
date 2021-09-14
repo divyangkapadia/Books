@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\"",
     "start": "nodemon app.js",
-    "build": "node app.js"
+    "build": ""
   },
   "author": "Lairdmee@gmail.com",
   "license": "MIT",
